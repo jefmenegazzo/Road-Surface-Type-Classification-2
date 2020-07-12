@@ -1,0 +1,4 @@
+placement,experiment,window,scaler,input_shape,output_shape,train_loss,val_loss,train_acc,val_acc
+Below Suspension,2,100,"Min Max Scaler(0,1)","(None, 100, 561)","(None, 3)",0.15901488065719604,0.3171240985393524,0.9351128935813904,0.8870477676391602
+Below Suspension,2,200,"Min Max Scaler(0,1)","(None, 200, 561)","(None, 3)",0.14590395987033844,0.3152468204498291,0.9428172707557678,0.9038142561912537
+Below Suspension,2,300,"Min Max Scaler(0,1)","(None, 300, 561)","(None, 3)",0.021466007456183434,0.4416959881782532,0.9914190173149109,0.9170812368392944

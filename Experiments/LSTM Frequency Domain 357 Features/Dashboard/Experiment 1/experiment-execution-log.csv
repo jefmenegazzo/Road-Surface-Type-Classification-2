@@ -1,0 +1,4 @@
+placement,experiment,window,scaler,input_shape,output_shape,train_loss,val_loss,train_acc,val_acc
+Dashboard,1,100,"Min Max Scaler(0,1)","(None, 100, 357)","(None, 3)",0.1279560923576355,0.23640556633472443,0.9507021903991699,0.9155095815658569
+Dashboard,1,200,"Min Max Scaler(0,1)","(None, 200, 357)","(None, 3)",0.06183937191963196,0.38116905093193054,0.9794952869415283,0.9226533770561218
+Dashboard,1,300,"Min Max Scaler(0,1)","(None, 300, 357)","(None, 3)",0.09584483504295349,0.20558974146842957,0.966006875038147,0.946105420589447
