@@ -29,14 +29,14 @@ J. Menegazzo and A. von Wangenheim, "Multi-Contextual and Multi-Aspect Analysis 
 ```
 
 ```bibtex
-@INPROCEEDINGS{9277846,
-  author={J. {Menegazzo} and A. {von Wangenheim}},
-  booktitle={2020 X Brazilian Symposium on Computing Systems Engineering (SBESC)}, 
-  title={Multi-Contextual and Multi-Aspect Analysis for Road Surface Type Classification Through Inertial Sensors and Deep Learning}, 
-  year={2020},
-  volume={},
-  number={},
-  pages={1-8},
-  doi={10.1109/SBESC51047.2020.9277846}
+@inproceedings{menegazzo_multi_contextual_2020,
+	title = {Multi-{Contextual} and {Multi}-{Aspect} {Analysis} for {Road} {Surface} {Type} {Classification} {Through} {Inertial} {Sensors} and {Deep} {Learning}},
+	doi = {10.1109/SBESC51047.2020.9277846},
+	booktitle = {2020 {X} {Brazilian} {Symposium} on {Computing} {Systems} {Engineering} ({SBESC})},
+	author = {Menegazzo, J. and Wangenheim, A. von},
+	month = nov,
+	year = {2020},
+	note = {ISSN: 2324-7894},
+	pages = {1--8}
 }
 ```
